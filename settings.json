@@ -1,0 +1,15 @@
+{
+  "settings": {
+    "gameinfoPath": "C:/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/",
+    "bspzipPath": "C:/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/bin/bspzip.exe",
+    "outputPath": "C:/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/maps",
+    "forceMapCompression": true,
+    "uploadMapsToWorkshop": false,
+    "verboseLogging": true,
+    "extensionWhitelist": [ "nav", "vmt", "vtf", "mdl", "phy", "vvd", "vtx", "wav", "mp3", "pcf", "res", "txt", "nut" ],
+    "bspConfigFileNames": [ "example" ],
+    "globalAssets": [
+      "C:/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf//sound"
+    ]
+  }
+}

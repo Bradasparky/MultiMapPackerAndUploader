@@ -1,0 +1,23 @@
+{
+  "maps": [
+    {
+      "name": "cp_dustbowl",
+      "enabled": true,
+      "compress": false,
+      "ignoreAssets": false,
+      "sourcePath": "C:/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/maps/cp_dustbowl.bsp",
+      "workshop": {
+        "upload": false,
+        "id": 0,
+        "visibility": 3,
+        "changelog": ""
+      },
+      "assets": [
+        "C:/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf//models"
+      ]
+    }
+  ],
+  "sharedAssets": [
+    "C:/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf//materials"
+  ]
+}

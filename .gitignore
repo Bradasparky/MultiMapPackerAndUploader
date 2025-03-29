@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+Properties/appsettings.development.json
+Properties/appsettings.json
+steam_api.dll
